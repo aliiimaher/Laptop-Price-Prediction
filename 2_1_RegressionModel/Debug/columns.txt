@@ -1,0 +1,212 @@
+﻿weight
+min hertz
+ max hertz
+cach mem
+internal storage
+internal_storage_hdd
+GPU memory
+screen size
+screen refresh rate
+battery
+price
+Processor manufacturer_AMD
+Processor manufacturer_Apple
+Processor manufacturer_Intel
+Processor model_10310U
+Processor model_1115G4
+Processor model_1115G4 
+Processor model_11260H
+Processor model_11320H
+Processor model_1135G7
+Processor model_11370H
+Processor model_11400H
+Processor model_1155G7
+Processor model_1165G7
+Processor model_11800H
+Processor model_1215U
+Processor model_1220P
+Processor model_1235U
+Processor model_12450H
+Processor model_12450HX
+Processor model_12500H
+Processor model_1255U
+Processor model_125H
+Processor model_1260P
+Processor model_12650H
+Processor model_12700H
+Processor model_12700H/BGA
+Processor model_12900H
+Processor model_12900HX
+Processor model_1305U
+Processor model_1315U
+Processor model_1334U
+Processor model_1335U
+Processor model_13420H
+Processor model_13500H
+Processor model_1355U
+Processor model_1360P
+Processor model_13620H
+Processor model_13650HX
+Processor model_13700H
+Processor model_13700HX
+Processor model_1370P
+Processor model_13900H
+Processor model_13900HX
+Processor model_13950HX
+Processor model_14650HX
+Processor model_14900HX
+Processor model_150U
+Processor model_155H
+Processor model_3250U
+Processor model_5500U
+Processor model_5625U
+Processor model_5800H
+Processor model_5825U
+Processor model_5825U 
+Processor model_6600H
+Processor model_6800H
+Processor model_7320U
+Processor model_7520U
+Processor model_7535HS
+Processor model_7640HS
+Processor model_7730U
+Processor model_7735HS
+Processor model_7735U
+Processor model_7840HS
+Processor model_7845HX
+Processor model_7940HS
+Processor model_8945H
+Processor model_8945HS
+Processor model_8‑Core
+Processor model_Apple M1
+Processor model_Apple M1 chip
+Processor model_Gold 7505
+Processor model_H35 11370H
+Processor model_M1
+Processor model_M2 8-Cores
+Processor model_M2 Pro (12 Cores)
+Processor model_N305
+Processor model_N4020
+Processor model_N4120
+Processor model_N4500
+Processor model_Silver 3050
+Processor model_Silver 7120U
+Processor series_ATHLON
+Processor series_Celeron
+Processor series_Core 7
+Processor series_Core Ultra 5
+Processor series_Core Ultra 7
+Processor series_Core i3
+Processor series_Core i5
+Processor series_Core i7
+Processor series_Core i9
+Processor series_M1
+Processor series_M2
+Processor series_M2 Pro
+Processor series_Pentium
+Processor series_Ryzen 3
+Processor series_Ryzen 5
+Processor series_Ryzen 7
+Processor series_Ryzen 9
+RAM_DDR3 
+RAM_DDR4 
+RAM_DDR5 
+RAM_LPDDR4 
+RAM_LPDDR4X 
+RAM_LPDDR5 
+RAM_LPDDR5X 
+RAM_Unified 
+internal storage type_SSD 
+internal storage type_هارددیسک 
+internal storage type_هیبریدی 
+GPU manufacturer_AMD 
+GPU manufacturer_ATI 
+GPU manufacturer_Apple 
+GPU manufacturer_Intel 
+GPU manufacturer_NVIDIA 
+GPU model_ Arc A370M Graphics 
+GPU model_ GeForce RTX 4060 
+GPU model_ Integrated 10 Cores 
+GPU model_ Iris Xe 
+GPU model_ Radeon Graphics 
+GPU model_610M 
+GPU model_680M 
+GPU model_7core Apple-designed integrated GPU 
+GPU model_A1000 
+GPU model_AMD Radeon Graphics 
+GPU model_Arc A370M 
+GPU model_GEFORCE MX350 
+GPU model_GEFORCE MX350 GDDR5 
+GPU model_GEFORCE NVIDIA RTX 3050 
+GPU model_GeForce  RTX 4050 
+GPU model_GeForce  RTX 4060 
+GPU model_GeForce GTX 1650 
+GPU model_GeForce GTX 1650 MaxQ 
+GPU model_GeForce MX330 
+GPU model_GeForce MX350 
+GPU model_GeForce MX450 
+GPU model_GeForce MX450  
+GPU model_GeForce MX450 2GB GDDR6 
+GPU model_GeForce MX550 
+GPU model_GeForce MX550  
+GPU model_GeForce MX550 GDDR6 
+GPU model_GeForce MX570A 
+GPU model_GeForce MX570Aی 
+GPU model_GeForce RTX 2050 
+GPU model_GeForce RTX 3050 
+GPU model_GeForce RTX 3050  
+GPU model_GeForce RTX 3050 GDDR6 
+GPU model_GeForce RTX 3050 TI 
+GPU model_GeForce RTX 3050 Ti 
+GPU model_GeForce RTX 3060 
+GPU model_GeForce RTX 4050 
+GPU model_GeForce RTX 4060 
+GPU model_GeForce RTX 4060ی 
+GPU model_GeForce RTX 4070 
+GPU model_GeForce RTX 4080 
+GPU model_GeForce RTX 4090 
+GPU model_GeForce RTX A2000 
+GPU model_GeForce RTX2050 
+GPU model_GeForce RTX3050 
+GPU model_GeForce RTX4050 
+GPU model_GeForce RTX4060 
+GPU model_Geforce RTX 2050 
+GPU model_Geforce RTX 4060 
+GPU model_Geforce RTX 4070 
+GPU model_Integrated 10 Cores 
+GPU model_Intel Arc A730M 
+GPU model_Intel Arc Graphics 
+GPU model_Intel Graphics 
+GPU model_Intel Iris Xe 
+GPU model_Iris Xe 
+GPU model_Iris Xe (UHD Graphics) 
+GPU model_Iris Xe Graphics 
+GPU model_Iris Xe1 
+GPU model_M2 10‑core 
+GPU model_M2 8‑core 
+GPU model_M2 8‑cores 
+GPU model_M2 Pro 
+GPU model_MX350 
+GPU model_RADEON 
+GPU model_RADEON 610M 
+GPU model_RADEON RX VEGA 7 
+GPU model_RTX 3050 TI 
+GPU model_RTX 3080Ti 
+GPU model_RTX 4050 
+GPU model_RTX A500 
+GPU model_Radeon 
+GPU model_Radeon 610M 
+GPU model_Radeon 610M Graphics 
+GPU model_Radeon 780M 
+GPU model_Radeon Graphics 
+GPU model_Radeon Graphicsی 
+GPU model_Radeon RX VEGA 8 
+GPU model_UHD 
+GPU model_UHD 600 Graphics 
+GPU model_UHD Graphics 
+GPU model_UHD Graphics  
+GPU model_UHD Graphics (Iris Xe Support By Dual Channel Memory) 
+GPU model_UHD Graphics (Iris Xe در صورت استفاده از رم دو کاناله) 
+GPU model_UHD Graphics (Iris Xe در صورت استفاده از رم دو کاناله)1 
+GPU model_UHD Graphics 600 
+GPU model_UHD graphics 
