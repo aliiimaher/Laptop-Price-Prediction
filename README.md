@@ -63,7 +63,7 @@ This project utilizes linear algebra concepts to analyze and predict laptop pric
 
 This project demonstrates the practical application of linear algebra in predicting laptop prices. Key achievements include overcoming data scraping and cleaning challenges, effectively using one-hot encoding for categorical data, and developing a highly accurate linear regression model. The user-friendly GUI enhances usability, making the tool accessible for end-users.
 
-![gui_pic](.../...)
+![gui_pic](./DocMe/guiPic.png)
 
 ## Repository Contents
 
